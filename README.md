@@ -137,12 +137,12 @@ Actuators:
 
 # Physical AI vs Traditional AI
 
-  Feature       Traditional AI    Physical AI
+  Feature    |   Traditional AI    |  Physical AI
   ------------- ----------------- -----------------------
-  Environment   Digital data      Real world
-  Hardware      Cloud / Servers   Edge devices
-  Interaction   Data analysis     Sensing + Action
-  Examples      Chatbots, NLP     Robots, Smart devices
+  Environment   |  Digital data     |   Real world
+  Hardware     |   Cloud / Servers   |  Edge devices
+  Interaction   |  Data analysis     |  Sensing + Action
+  Examples     |   Chatbots, NLP    |   Robots, Smart devices
 
 ------------------------------------------------------------------------
 
