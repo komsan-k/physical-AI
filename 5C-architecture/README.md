@@ -6,10 +6,10 @@ Physical AI systems are naturally implemented within the
 **Cyber-Physical Systems (CPS) 5C architecture**, which structures
 intelligent systems into five layers:
 
-1.  Connection\
-2.  Conversion\
-3.  Cyber\
-4.  Cognition\
+1.  Connection
+2.  Conversion
+3.  Cyber
+4.  Cognition
 5.  Configuration
 
 This framework enables a **closed-loop intelligent control system**
@@ -130,13 +130,13 @@ Example:
 
 # Example: ESP32 Smart Lighting CPS
 
-  CPS Layer       Implementation
-  --------------- --------------------
-  Connection      LDR sensor
-  Conversion      ADC normalization
-  Cyber           Node-RED dashboard
-  Cognition       TinyML classifier
-  Configuration   LED control
+  CPS Layer  |     Implementation
+  --------------- | --------------------
+  Connection  |     LDR sensor
+  Conversion   |    ADC normalization
+  Cyber       |     Node-RED dashboard
+  Cognition   |     TinyML classifier
+  Configuration  |  LED control
 
 Flow:
 
@@ -146,33 +146,33 @@ Flow:
 
 # Example: Smart Traffic System
 
-  CPS Layer       Example
-  --------------- -----------------------
-  Connection      Camera sensors
-  Conversion      Vehicle counting
-  Cyber           Traffic digital twin
-  Cognition       AI prediction
-  Configuration   Traffic light control
+  CPS Layer    |    Example
+  --------------- | -----------------------
+  Connection  |     Camera sensors
+  Conversion  |     Vehicle counting
+  Cyber      |      Traffic digital twin
+  Cognition    |    AI prediction
+  Configuration |   Traffic light control
 
 ------------------------------------------------------------------------
 
 # Example: Smart Metasurface Antenna
 
-  CPS Layer       Implementation
-  --------------- ----------------------
-  Connection      RF sensing
-  Conversion      Signal processing
-  Cyber           EM digital twin
-  Cognition       AI beam optimization
-  Configuration   Phase control
+  CPS Layer   |     Implementation
+  --------------- | ----------------------
+  Connection  |     RF sensing
+  Conversion  |     Signal processing
+  Cyber     |       EM digital twin
+  Cognition   |     AI beam optimization
+  Configuration  |  Phase control
 
 ------------------------------------------------------------------------
 
 # Advantages
 
--   Real-time intelligent decision-making\
--   Autonomous control\
--   Digital twin integration\
+-   Real-time intelligent decision-making
+-   Autonomous control
+-   Digital twin integration
 -   Scalable system design
 
 ------------------------------------------------------------------------
